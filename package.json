@@ -1,0 +1,19 @@
+{
+  "name": "longhaul-client",
+  "version": "1.0.0",
+  "description": "An Express session middleware to connect to a remote longhaul server via websocket. Useful in situations with particularly draconian requirements for 3-tier application architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archa347/longhaul-client.git"
+  },
+  "author": "daniel.r.gallegos@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/archa347/longhaul-client/issues"
+  },
+  "homepage": "https://github.com/archa347/longhaul-client#readme"
+}
